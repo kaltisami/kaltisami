@@ -57,12 +57,10 @@ I build production-grade AI systems focused on **medical imaging** and **clinica
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Streak
 
 <div align="center">
 
-![Sami's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaltisami&show_icons=true&theme=dark&hide_border=true&count_private=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaltisami&layout=compact&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kaltisami&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
