@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sami L. D. Kalti
+# Sami Labbane Dit Kalti
 
 **AI Developer · Medical Imaging · Model Evaluation & Documentation**
 
